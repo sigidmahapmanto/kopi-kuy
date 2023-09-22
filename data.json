@@ -1,0 +1,74 @@
+{
+    "arabica": [
+        {
+          "foto": "images/produk/product_capuchino.jpg",
+          "nama": "Cappuccino Arabica",
+          "size": "400 ml",
+          "harga": "30.000",
+          "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+          "foto": "images/produk/product_espresso.jpg",
+          "nama": "Espresso Arabica",
+          "size": "250 ml",
+          "harga": "10.000",
+          "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+          "foto": "images/produk/product_latte.jpg",
+          "nama": "Latte Arabica",
+          "size": "300 ml",
+          "harga": "15.000",
+          "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+      ],
+        
+      "robusta": [
+        {
+          "foto": "images/produk/product_kopi_susu.jpg",
+          "nama": "Kopi susu Robusta",
+          "size": "250 ml",
+          "harga": "20.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+          "foto": "images/produk/product_latte.jpg",
+          "nama": "Latte Robusta",
+          "size": "350 ml",
+          "harga": "18.000",
+          "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+      ],
+      "bijiKopi":[
+        {
+         "foto": "images/produk/kopi_arabica_gayo.jpg",
+          "nama": "Kopi Arabica Gayo",
+          "size": "500 Gram",
+          "harga": "130.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"   
+        },
+        {
+         "foto": "images/produk/kopi_sumbawa.jpg",
+          "nama": "Kopi Sumbawa",
+          "size": "500 Gram",
+          "harga": "150.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"   
+        }
+      ],
+      "kopiImport":[
+      {
+         "foto": "images/produk/kopi_vietnam.jpg",
+          "nama": "kopi vietnam",
+          "size": "1 kg",
+          "harga": "250.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"   
+        },
+        {
+         "foto": "images/produk/kopi_brazil.jpg",
+          "nama": "kopi Brazil",
+          "size": "1 kg",
+          "harga": "350.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"   
+        }
+      ]
+}
